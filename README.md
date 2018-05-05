@@ -1,9 +1,9 @@
 # Predicting Malignant Tumor Diagnosis With Pytorch
-#### objective
+#### Objective
 Exercise in initiating a logistic regression using Pytorch and comparing two common optimser functions when it comes to loss reduction:
 
 * Activation function: Sigmoid.
-* optimiser functions: Stochastic gradient decent & Resilient backpropagation.
+* Optimiser functions: Stochastic gradient decent & Resilient backpropagation.
 
 Credit to hunkim for the code structure for the exercise: https://github.com/hunkim/PyTorchZeroToAll/blob/master/07_diabets_logistic.py
 
