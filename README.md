@@ -1,6 +1,6 @@
 # Predicting Malignant Tumor Diagnosis With Pytorch
 #### Objective
-Exercise in initiating a logistic regression using Pytorch and just for fun, demonstrating the speed of Rprop in minimising the cost function vs. stockastic gradient decent (SGD) over a couple of hundred Epochs.
+Exercise in initiating a logistic regression using Pytorch and just for fun, demonstrating the speed of Rprop in minimising the cost function vs. stochastic gradient decent (SGD) over a couple of hundred Epochs.
 
 * Activation function: Sigmoid.
 * Optimiser functions: SGD & Rprop.
