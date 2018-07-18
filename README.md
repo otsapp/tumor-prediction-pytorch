@@ -10,6 +10,6 @@ Exercise in initiating a logistic regression using Pytorch and just for fun, dem
 * Diagnosis (1 = malignant, 0 = benign).
 * 30 measurements.
 
-A nice quick intro on when SGD can be useful: http://ufldl.stanford.edu/tutorial/supervised/OptimizationStochasticGradientDescent/
+A nice quick intro on when SGD can be useful: `http://ufldl.stanford.edu/tutorial/supervised/OptimizationStochasticGradientDescent/`
 
-Credit to hunkim for the code structure for the exercise: https://github.com/hunkim/PyTorchZeroToAll/blob/master/07_diabets_logistic.py
+Credit to hunkim for the code structure for the exercise: `https://github.com/hunkim/PyTorchZeroToAll/blob/master/07_diabets_logistic.py`
